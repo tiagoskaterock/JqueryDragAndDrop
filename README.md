@@ -1,2 +1,2 @@
 # draganddrop
-<img src="1.png" alt="Drag and Drop Project" >
+<img src="draganddrop/1.png" alt="Drag and Drop Project" >
